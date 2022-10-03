@@ -1,6 +1,6 @@
-- I'm an innovative and scientifically rigorous Artificial Intelligence Engineer with significant experience in data science, machine learning, deep learning, computer vision, NLP, time series forecasting, and recommendation engines, with a team-oriented attitude.
-
-- I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business.
+# Hi there, I am Yousef 👋
+An AI Engineer engineer and Data Scientist who's eager to learn, very interested in machine learning and loves playing with data <br>
+I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business.
 
 
 
