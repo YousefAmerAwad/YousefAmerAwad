@@ -1,5 +1,6 @@
 # Hi there, I am Yousef 👋
-An AI Engineer engineer and Data Scientist who's eager to learn, very interested in machine learning and loves playing with data <br>
+An AI Engineer engineer and Data Scientist who's eager to learn, very interested in machine learning and loves playing with data.<br>
+<br>
 I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business.
 
 
