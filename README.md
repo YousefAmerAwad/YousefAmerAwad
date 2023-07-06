@@ -1,5 +1,5 @@
 # Hi there, I am Yousef 👋
-A motivated senior student with a deep passion for Data Science, Data Analysis, and Machine Learning..<br>
+A motivated senior student with a deep passion for Data Science, Data Analysis, and Machine Learning.<br>
 <br>
 
 
